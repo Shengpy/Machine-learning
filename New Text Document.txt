@@ -1,0 +1,2 @@
+https://www.youtube.com/watch?v=qyz0UAfTZ5Q&list=PLmtLOdLKF-og3HsyUGGNR5lhn96TOUllX&index=13
+không nên khởi tạo các tham số bằng 0

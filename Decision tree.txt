@@ -1,0 +1,5 @@
+https://www.blog.dailydoseofds.com/p/decision-trees-always-overfit-heres?fbclid=IwAR187DaG8XXYpBNpxBlvUN-cAiiXxwDKZFzIfLUR3VdyBya2QqH6qURuMOw
+chỉnh decision tree không overfiting
+https://www.blog.dailydoseofds.com/p/why-your-random-forest-may-not-need?utm_source=profile&utm_medium=reader2
+tránh overfitting của random forest 
+sử dụng "out-of-bag" (OOB): một phần của dữ liệu không được sử dụng (không được chọn) để huấn luyện cây đos

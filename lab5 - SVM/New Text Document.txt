@@ -1,0 +1,5 @@
+https://viblo.asia/p/gioi-thieu-ve-support-vector-machine-svm-6J3ZgPVElmB
+số lượng thuộc tính (p) của tập dữ liệu lớn hơn rất nhiều so với số lượng dữ liệu (n) thì SVM cho kết quả khá tồi.
+
+https://phamdinhkhanh.github.io/deepai-book/ch_ml/SVM.html#sorf-margin-classification
+https://machinelearningcoban.com/2017/04/09/smv/

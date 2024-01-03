@@ -1,0 +1,6 @@
+
+streamlit,gradio
+
+https://viblo.asia/p/tri-tue-nhan-tao-danh-danh-gia-do-dep-trai-xinh-gai-cua-ban-ra-sao-xay-dung-model-deep-learning-cho-bai-toan-beauty-evaluate-3P0lPa6n5ox#_chia-du-lieu-4
+https://viblo.asia/p/haar-cascade-la-gi-luan-ve-mot-ky-thuat-chuyen-dung-de-nhan-biet-cac-khuon-mat-trong-anh-E375zamdlGW
+https://nttuan8.com/bai-8-o-to-tu-lai-voi-udacity-open-source/

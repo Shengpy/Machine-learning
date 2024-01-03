@@ -1,0 +1,1 @@
+https://phamdinhkhanh.github.io/deepai-book/ch_ml/KMeans.html#phuong-phap-elbow-trong-lua-chon-so-cum
